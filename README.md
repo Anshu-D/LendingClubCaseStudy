@@ -23,13 +23,14 @@
 
 
 ## Conclusions
+![Loan_Status](Loan_Status.png)
 - Lending club should reduce the high interest loans for 60 months tenure, they are prone to loan default. 
 - Small business loans are defaulted more. Lending club should cautiously give the loans to them.
 - Borrowers with mortgage home ownership are taking higher loans and defaulting the approved  loans. High Alert for Lending club when l loan amount asked is 12000 or more.
 - Charging an Interest rate ranging between 21-25% can lead to a list of defaulters so we can minimize giving loans to the profile on which interest rate is calculated high.
 - Grades can be one of the indicator for detecting defaulters. When grade is F or G and loan amount is between 15k-20k Those are more likely to be defaulters
 - Lending Club should keep a check to the number of loan issues to borrowers who are from CA, FL and NY to avoid risks.
-
+[Link to PDF file](LENDINGCLUBCASESTUDY.pdf)
 ## Technologies Used
 - Pandas - version 1.5.3
 - seaborn - version 0.12.0
@@ -46,5 +47,5 @@ This is a academic project taken under th Executive PG Programme IIITB & UpGrad
 
 
 ## Contact
-Created by [@Anshu-D](url_of_github) ,[@renga9695](https://github.com/renga9695))- feel free to contact us!
+Created by [@Anshu-D](https://github.com/Anshu-D) ,[@renga9695](https://github.com/renga9695)- feel free to contact us!
 
