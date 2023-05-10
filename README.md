@@ -3,7 +3,7 @@
 > There are some cases where Borrower from the company are not likely to repay the loan that leads to loss for the Loan Provider,Using the previous data the Company labelled some customers as 'charged-off' i.e 'defaulters' who are not repaying
 > The company wants to understand the driving factors behind loan default, i.e. the variables which are strong indicators of default. 
 
-
+<img src="" />
 
 ## Table of Contents
 * [General Info](#general-information)
